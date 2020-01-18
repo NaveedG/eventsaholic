@@ -3,13 +3,12 @@ Eventsaholic is an event planner tool designed to book prominent venues in the c
 
 ## Setup
 After cloning this repository, run the following commands in your terminal:
-```
-bundle install
-rails db:create
-rails db:migrate
-rails db:seed
-rails s
-```
+
+* ```bundle install```
+* ```rails db:create```
+* ```rails db:migrate```
+* ```rails db:seed```
+* ```rails s```
 
 ## Contributing Guide
 When contributing to this repository, please contact the owners of this repository via issue, e-mail or any other method to discuss the change you wish to make.
