@@ -2,8 +2,9 @@
 Eventsaholic is an event planner tool designed to book prominent venues in the city of Chicago using Ruby on Rails and SQLite. Upon secure login or sign-up, clients may book, update or delete events at featured venues, as well as view their upcoming and previous events booked through Eventaholic. Visitors who are not logged in may also view and post reviews for featured venues.
 
 ## Setup
-After cloning this repository, run the following commands in your terminal:
+Ensure the latest versions of Ruby, Rails and SQLite are installed. After cloning this repository, run the following commands in your terminal:
 
+* ```gem install bundler```
 * ```bundle install```
 * ```rails db:create```
 * ```rails db:migrate```
